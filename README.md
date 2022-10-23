@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <li> I love cooking (eating) </li>
 <li> writing </li>
 <li> Reading </li>
+</ol>
 ```
 - 🤔 I’m looking for help with pair programming and currently learning Web 3 Development
 - 💬 Ask me about **AR**,**Community Management** , **Digitial Marketing** and **Content**
