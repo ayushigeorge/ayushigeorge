@@ -1,5 +1,9 @@
 ### Hi there 👋 
 ## I am Ayushi George!
+
+https://user-images.githubusercontent.com/76419649/197415421-64d4dd6f-9a15-4f4d-9eb9-0829352184cd.mp4
+
+
 ### ✨Learner and Explorer
 <!--
 **ayushigeorge/ayushigeorge** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
