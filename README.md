@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 * [x] Ui Path [Champ](https://forum.uipath.com/t/meet-the-uipath-student-developer-champions-2022-2023/482621)
 * [x] State Vice President at [WICCI](https://wicci.in/ayushi-george)
 * [x] Codechef JECRC Executive Member
+* [ ] Sotware Engineer
+* [ ] Graduate in AI & DS (2024)
 ``` 
 <h2> Fun fact </h2> 
 <ol> 
