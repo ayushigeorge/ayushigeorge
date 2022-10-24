@@ -30,5 +30,26 @@ Here are some ideas to get you started:
 - 💬 Ask me about **AR**,**Community Management** , **Digitial Marketing** and **Content**
 - 📫 How to reach me: https://linktr.ee/AyushiGeorge
 - 👯 I’m looking to collaborate on Events, Hackathons, etc..
+<p align="center">
+  <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
+ </a>
+  <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
+ </a>
+  <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
+ </a>
+ <br />
+ <a href="https://ayushigeorge.carrd.co/" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check it out badge" />
+ </a>
+  <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
+ </a>
+</p>
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=ayushigeorge&show_icons=true&theme=tokyonight" 
+/>
 
 
