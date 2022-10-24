@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check it out badge" />
  </a>
   <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by Ayushi George badge" />
  </a>
 </p>
 <img 
