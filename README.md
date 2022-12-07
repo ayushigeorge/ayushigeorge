@@ -69,8 +69,6 @@ Here are some ideas to get you started:
 
 ## *My Stats*🔗
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushigeorge&theme=buefy)
 <a href="https://github.com/ayushigeorge">
  <img 
    src="https://github-readme-stats.vercel.app/api?username=ayushigeorge&show_icons=true&theme=tokyonight" 
