@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 * [x] State Vice President at [WICCI](https://wicci.in/ayushi-george)
 * [X] HackerEarth Campus Ambassador
 * [x] Codechef JECRC Executive Member
+* [X] Celebal Campus Executive
 * [ ] Sotware Engineer
 * [ ] Graduate in AI & DS (2024)
 ``` 
