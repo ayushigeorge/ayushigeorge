@@ -1,12 +1,9 @@
 ### Hi there 👋 
 ## I am Ayushi George!
 
- 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushigeorge" alt="ayushigeorge" /></a> </p>
-<hr/>
-
-<img align="right" src="/img/Coding image.gif" height='300' width='250'>
+<img align="right" src="![theengineergeoreg](https://user-images.githubusercontent.com/76419649/224484028-4eb3e658-3fa5-4e8a-a696-8e780284ce2e.jpg)
+" height='300' width='250'>
 
 
 ### ✨Learner and Explorer
@@ -20,9 +17,9 @@ Here are some ideas to get you started:
 * [x] MLSA'23, 
 * [x] Ui Path [Champ](https://forum.uipath.com/t/meet-the-uipath-student-developer-champions-2022-2023/482621)
 * [x] State Vice President at [WICCI](https://wicci.in/ayushi-george)
+* [X] Machine Learning Intern
 * [X] HackerEarth Campus Ambassador
 * [x] Codechef JECRC Executive Member
-* [X] Celebal Campus Executive
 * [ ] Sotware Engineer
 * [ ] Graduate in AI & DS (2024)
 ``` 
@@ -37,6 +34,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about **AR**,**Community Management** , **Digitial Marketing** and **Content**
 - 📫 How to reach me: https://linktr.ee/AyushiGeorge
 - 👯 I’m looking to collaborate on Events, Hackathons, etc..
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushigeorge&layout=compact&theme=tokyonight)](https://github.com/ayushigeorge/github-readme-stats)
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -68,12 +68,13 @@ Here are some ideas to get you started:
 </p>
 
 
-
 ## *My Stats*🔗
 
 <a href="https://github.com/ayushigeorge">
  <img 
    src="https://github-readme-stats.vercel.app/api?username=ayushigeorge&show_icons=true&theme=tokyonight" 
 />
- 
+ <p align="center">
+<img src = "https://github.com/ayushigeorge/ayushigeorge/blob/output/github-contribution-grid-snake.svg">
+</p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushigeorge&theme=monokai)](https://git.io/streak-stats)
