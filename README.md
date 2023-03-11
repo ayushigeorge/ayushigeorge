@@ -3,7 +3,7 @@
 
  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushigeorge" alt="coder-x27" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushigeorge" alt="ayushigeorge" /></a> </p>
 <hr/>
 
 <img align="right" src="/img/Coding image.gif" height='300' width='250'>
