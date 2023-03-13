@@ -2,8 +2,7 @@
 ## I am Ayushi George!
 
 
-<img align="right" src= "![theengineergeoreg](https://user-images.githubusercontent.com/76419649/224656419-6904d8d7-a978-4216-9c62-f08f6e4b7c71.jpg)"
- height='300' width='250'>
+
 
 
 ### ✨Learner and Explorer
@@ -22,6 +21,11 @@ Here are some ideas to get you started:
 * [x] Codechef JECRC Executive Member
 * [ ] Sotware Engineer
 * [ ] Graduate in AI & DS (2024)
+* [ ] <p align="right">
+  <img src="https://user-images.githubusercontent.com/76419649/224656419-6904d8d7-a978-4216-9c62-f08f6e4b7c71.jpg" width="350" title="ayushi george"
+       style="display: inline-block; margin: 0 auto; max-width: 0px">
+  
+</p>
 ``` 
 <h2> Fun fact </h2> 
 <ol> 
