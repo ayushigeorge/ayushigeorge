@@ -67,14 +67,13 @@ Here are some ideas to get you started:
  </a>
 </p>
 
-
 ## *My Stats*🔗
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushigeorge&theme=monokai)](https://git.io/streak-stats)
 
 <a href="https://github.com/ayushigeorge">
  <img 
    src="https://github-readme-stats.vercel.app/api?username=ayushigeorge&show_icons=true&theme=tokyonight" 
 />
- <p align="center">
-<img src = "https://github.com/ayushigeorge/ayushigeorge/blob/output/github-contribution-grid-snake.svg">
-</p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushigeorge&theme=monokai)](https://git.io/streak-stats)
+ 
+
+
