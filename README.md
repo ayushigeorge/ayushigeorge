@@ -2,8 +2,8 @@
 ## I am Ayushi George!
 
 
-<img align="right" src="![theengineergeoreg](https://user-images.githubusercontent.com/76419649/224484028-4eb3e658-3fa5-4e8a-a696-8e780284ce2e.jpg)
-" height='300' width='250'>
+<img align="right" src= "![theengineergeoreg](https://user-images.githubusercontent.com/76419649/224656419-6904d8d7-a978-4216-9c62-f08f6e4b7c71.jpg)"
+ height='300' width='250'>
 
 
 ### ✨Learner and Explorer
