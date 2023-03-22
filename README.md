@@ -58,7 +58,7 @@ Here are some ideas to get you started:
  </a>
  <br />
   <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-by-AyushiGeorge.svg" alt=" by Ayushi George badge" />
+    <img src="https://forthebadge.com/images/badges/built-by-ayushigeorge.svg" alt=" by Ayushi George badge" />
  </a>
 </p>
 
