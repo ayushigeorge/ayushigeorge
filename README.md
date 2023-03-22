@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 -->
 - 😊 I am 
 * [x] GDSC [LEAD](https://g.dev/ayushigeorge31) , 
-* [x] MLSA'23, 
+* [X] AWS Cloud Captain 2023
+* [x] Microsoft Learn Student Ambassador'23, 
 * [x] Ui Path [Champ](https://forum.uipath.com/t/meet-the-uipath-student-developer-champions-2022-2023/482621)
 * [x] State Vice President at [WICCI](https://wicci.in/ayushi-george)
 * [X] Machine Learning Intern
