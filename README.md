@@ -22,27 +22,21 @@ Here are some ideas to get you started:
 * [x] Codechef JECRC Executive Member
 * [ ] Sotware Engineer
 * [ ] Graduate in AI & DS (2024)
-* [ ] <p align="right">
+
+<p align="right">
   <img src="https://user-images.githubusercontent.com/76419649/224656419-6904d8d7-a978-4216-9c62-f08f6e4b7c71.jpg" width="350" title="ayushi george"
-       style="display: inline-block; margin: 0 auto; max-width: 0px">
+       style="display: inline-block; margin: 0 auto; max-width: 0px"></p>
   
-</p>
+
 ``` 
-<h2> Fun fact </h2> 
+<h2> Objectives </h2> 
 <ol> 
-<li> I love cooking (eating) </li>
-<li> writing </li>
-<li> Reading </li>
+<li>🤔 I’m looking for help with pair programming and currently learning Web 3 Development </li>
+<li> 💬 Ask me about **AR**,**Community Management** , **Digitial Marketing** and **Content** </li>
+<li>👯 I’m looking to collaborate on Events, Hackathons, etc..</li>
+<li> 📫 How to reach me: https://linktr.ee/AyushiGeorge </li>
 </ol>
 ```
-- 🤔 I’m looking for help with pair programming and currently learning Web 3 Development
-- 💬 Ask me about **AR**,**Community Management** , **Digitial Marketing** and **Content**
-- 📫 How to reach me: https://linktr.ee/AyushiGeorge
-- 👯 I’m looking to collaborate on Events, Hackathons, etc..
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushigeorge&layout=compact&theme=tokyonight)](https://github.com/ayushigeorge/github-readme-stats)
-<br>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,22 +47,18 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/ayushigeorge31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AyushiGeorge" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushigeorge31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AyushiGeorge" height="30" width="40" /></a> 
 </p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushigeorge&layout=compact&theme=tokyonight)](https://github.com/ayushigeorge/github-readme-stats)
+<br>
 <p align="center">
   <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
  </a>
   <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
- </a>
-  <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
  </a>
  <br />
- <a href="https://ayushigeorge.carrd.co/" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check it out badge" />
- </a>
   <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt=" by Ayushi George badge" />
+    <img src="https://forthebadge.com/images/badges/built-by-AyushiGeorge.svg" alt=" by Ayushi George badge" />
  </a>
 </p>
 
