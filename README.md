@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ## I am Ayushi George!
 
-
+[![An image of @ayushigeorge31's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushigeorge31)](https://holopin.io/@ayushigeorge31)
 
 
 
