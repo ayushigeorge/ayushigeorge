@@ -47,8 +47,10 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/ayushigeorge31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AyushiGeorge" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushigeorge31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AyushiGeorge" height="30" width="40" /></a> 
 </p>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushigeorge&layout=compact&theme=tokyonight)](https://github.com/ayushigeorge/github-readme-stats)
-<br>
+ 
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushigeorge&layout=compact&theme=tokyonight)](https://github.com/ayushigeorge/github-readme-stats)
+
+
 <p align="center">
   <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
