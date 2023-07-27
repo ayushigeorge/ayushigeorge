@@ -1,5 +1,18 @@
-### Hi there 👋 
-## I am Ayushi George!
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px">, I'm Ayushi George</h1>
+<h3 align="center">B.Tech in Artificial Intelligence and Data Science, JECRC College, India</h3>
+
+<p align='center'>
+  Passionate about programming and community</b> 
+</p>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/ayushi-george/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+   <a href="https://ayushigeorge.cardd">
+<img alt="My Website" title="My Website" src="https://img.shields.io/badge/Portfolio-ff4828?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;
+   <a href="https://www.instagram.com/theengineergeorge/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+   <a href="https://twitter.com/ayushigeorge31"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  </p>
+  ![Ayushi George Cover Photo](https://github.com/ayushigeorge/ayushigeorge/assets/76419649/05b12e96-2b92-4cb0-bcd0-5e75505594d6)
+
 
 [![An image of @ayushigeorge31's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushigeorge31)](https://holopin.io/@ayushigeorge31)
 
@@ -37,6 +50,15 @@ Here are some ideas to get you started:
 <li> 📫 How to reach me: https://linktr.ee/AyushiGeorge </li>
 </ol>
 ```
+## Stats📈
+
+<a align="left" href="https://github.com/YatharthChauhan2362/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=YatharthChauhan2362&style=for-the-badge">
+</a>
+<!-- <a href="https://www.linkedin.com/in/ayushi-george/"><img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" /></a>&nbsp;&nbsp; -->
+  <a href="https://github.com/ayushigeorge">
+<img alt="followers" title="Followers me on Github" src="https://img.shields.io/github/followers/ayushigeorge?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>&nbsp;&nbsp;&nbsp;
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,7 +69,8 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/ayushigeorge31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AyushiGeorge" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushigeorge31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AyushiGeorge" height="30" width="40" /></a> 
 </p>
- 
+
+ ## Technologies💻
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushigeorge&layout=compact&theme=tokyonight)](https://github.com/ayushigeorge/github-readme-stats)
 
 
