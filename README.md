@@ -11,9 +11,9 @@
    <a href="https://www.instagram.com/theengineergeorge/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
    <a href="https://twitter.com/ayushigeorge31"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   </p>
-  ![Ayushi George Cover Photo](https://github.com/ayushigeorge/ayushigeorge/assets/76419649/05b12e96-2b92-4cb0-bcd0-5e75505594d6)
 
 
+![An image of @ayushigeorge31'cover](https://github.com/ayushigeorge/ayushigeorge/blob/main/photo_2023-07-27_22-07-18.jpg)
 [![An image of @ayushigeorge31's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushigeorge31)](https://holopin.io/@ayushigeorge31)
 
 
@@ -25,15 +25,14 @@
 Here are some ideas to get you started:
 -->
 - 😊 I am 
-* [x] GDSC [LEAD](https://g.dev/ayushigeorge31) , 
+* [x] GDSC [LEAD](https://g.dev/ayushigeorge31) 2022, 
 * [X] AWS Cloud Captain 2023
 * [x] Microsoft Learn Student Ambassador'23, 
-* [x] Ui Path [Champ](https://forum.uipath.com/t/meet-the-uipath-student-developer-champions-2022-2023/482621)
-* [x] State Vice President at [WICCI](https://wicci.in/ayushi-george)
-* [X] Machine Learning Intern
+* [x] Ui Path [Champ](https://forum.uipath.com/t/meet-the-uipath-student-developer-champions-2022-2023/482621) 2022
+* [x] State Vice President at [WICCI](https://wicci.in/ayushi-george) 2022
 * [X] HackerEarth Campus Ambassador
 * [x] Codechef JECRC Executive Member
-* [ ] Sotware Engineer
+* [ ] Software Engineer
 * [ ] Graduate in AI & DS (2024)
 
 <p align="right">
