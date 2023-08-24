@@ -6,7 +6,7 @@
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/ayushi-george/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-   <a href="https://ayushigeorge.cardd">
+   <a href="https://ayushigeorge31.netlify.app">
 <img alt="My Website" title="My Website" src="https://img.shields.io/badge/Portfolio-ff4828?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;
    <a href="https://www.instagram.com/theengineergeorge/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
    <a href="https://twitter.com/ayushigeorge31"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
