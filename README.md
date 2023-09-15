@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px">, I'm Ayushi George</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"  height="30px">, I'm Ayushi George</h1>
 <h3 align="center">B.Tech in Artificial Intelligence and Data Science, JECRC College, India</h3>
 
 <p align='center'>
@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 -->
 - 😊 I am 
 * [x] GDSC [LEAD](https://g.dev/ayushigeorge31) 2022, 
-* [X] AWS Cloud Captain 2023
+* [X] AWS Cloud Captain 2023,
+* [X] Intel Student Ambassador
 * [x] Microsoft Learn Student Ambassador'23, 
 * [x] Ui Path [Champ](https://forum.uipath.com/t/meet-the-uipath-student-developer-champions-2022-2023/482621) 2022
 * [x] State Vice President at [WICCI](https://wicci.in/ayushi-george) 2022
@@ -72,19 +73,6 @@ Here are some ideas to get you started:
  ## Technologies💻
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushigeorge&layout=compact&theme=tokyonight)](https://github.com/ayushigeorge/github-readme-stats)
 
-
-<p align="center">
-  <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
- </a>
-  <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
- </a>
- <br />
-  <a href="https://github.com/ayushigeorge" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt=" by Ayushi George badge" />
- </a>
-</p>
 
 ## *My Stats*🔗
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushigeorge&theme=monokai)](https://git.io/streak-stats)
